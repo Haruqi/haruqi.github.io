@@ -30,11 +30,17 @@ h1 {
     font-family: "Times New Roman", Times, serif;
 } 
     h2 {
-    color: #ff3399;
+    color: #00ccff;
     margin-left: 0px;
     font-family: "Times New Roman", Times, serif;
     }
     
+h3 { 
+    color: #red;
+    margin-left: 0px;
+    font-family: "Times New Roman", Times, serif;
+}
+
     p { font-family: "Times New Roman", Times, serif;
    font-size: 15px; 
     }
