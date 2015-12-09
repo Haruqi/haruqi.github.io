@@ -23,3 +23,18 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+h1 {
+    color: #ff3399;
+    margin-left: 0px;
+    font-family: "Times New Roman", Times, serif;
+} 
+    h2 {
+    color: #ff3399;
+    margin-left: 0px;
+    font-family: "Times New Roman", Times, serif;
+    }
+    
+    p { font-family: "Times New Roman", Times, serif;
+   font-size: 15px; 
+    }
