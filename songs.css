@@ -27,20 +27,24 @@ li a {
 h1 {
     color: #ff3399;
     margin-left: 0px;
+    text-align: center;
     font-family: "Times New Roman", Times, serif;
 } 
     h2 {
     color: #00ccff;
     margin-left: 0px;
+    text-align: center;
     font-family: "Times New Roman", Times, serif;
     }
     
 h3 { 
     color: #ff0000;
     margin-left: 0px;
+    text-align: center;
     font-family: "Times New Roman", Times, serif;
 }
 
     p { font-family: "Times New Roman", Times, serif;
    font-size: 15px; 
+   text-align: center;
     }
